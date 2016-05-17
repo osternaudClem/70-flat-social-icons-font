@@ -2,10 +2,12 @@
 [Alexis Doreau](https://twitter.com/adoreau) release a new version of the [70 Flat Social Icons for Sketch](https://dribbble.com/shots/2720859-70-Flat-Social-Icons-for-Sketch-Updated).
 From this file, I generate font icons files with [Icomoon](https://icomoon.io).
 
+![Sketch Gif](assets/70-icons.gif)
+
 ## Install it
 
 ### Zip file
-You can download the zip file [here]().
+You can download the zip file [here](https://github.com/osternaudClem/70-flat-social-icons-font/archive/master.zip).
 
 ### NPM
 ```shell
