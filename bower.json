@@ -1,0 +1,22 @@
+{
+  "name": "flat-social-icons",
+  "description": "Alexis Doreau release a new version of the 70 Flat Social Icons for Sketch. From this file, I generate font icons files with Icomoon.",
+  "main": "flat-icons.css",
+  "authors": [
+    "Clement Osternaud <osternaud.clement@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "icons",
+    "social",
+    "fonts"
+  ],
+  "homepage": "https://github.com/osternaudClem/70-flat-social-icons-font",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
