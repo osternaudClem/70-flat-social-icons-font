@@ -123,6 +123,11 @@ Footer
   margin-top: 4rem;
 }
 
+.footer a {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
 /* Hero */
 .hero {
   position: relative;
@@ -144,10 +149,10 @@ Footer
 }
 
 .hero .cover {
-  background: #333 url(cover.png) no-repeat center -100px fixed;
+  background: #333 url(cover.png) no-repeat center 0px;
   -webkit-background-size: cover;
   background-size: cover;
-  height: 900px;
+  height: 800px;
 }
 
 .hero .cover::after {
@@ -179,6 +184,7 @@ Search field
   padding-left: 10px;
   display: block;
   font-size: .8rem;
+  -webkit-appearance: none;
 }
 
 .search-field:focus {
@@ -223,10 +229,6 @@ Icon list
   color: #239bf6;
 }
 
-.item-icon .copyboard {
-  /*display: none;*/
-}
-
 /*
 No Result
  */
@@ -244,6 +246,10 @@ No Result
   .wrapper {
     width: 100%;
     padding: 0 20px;
+  }
+
+  .footer {
+    padding: 40px 20px;
   }
 
   .list-icons .item-icon{
