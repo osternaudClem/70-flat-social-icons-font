@@ -1,6 +1,6 @@
 {
   "name": "flat-social-icons",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Alexis Doreau release a new version of the 70 Flat Social Icons for Sketch. From this file, I generate font icons files with Icomoon.",
   "main": "flat-icons.css",
   "scripts": {
