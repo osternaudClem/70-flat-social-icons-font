@@ -9,7 +9,7 @@
     font-style: normal;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+[class^="fl-icon-"], [class*=" fl-icon-"] {
     font-family: 'flat-icons' !important;
     speak: none;
     font-style: normal;
